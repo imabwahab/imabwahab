@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi there! 👋 I'm Ab Wahab 🚀  
 💻 **BS Computer Science (4th Semester) | Front-End Web Developer**  
 📍 **Tech Stack:**  
@@ -33,7 +31,7 @@ I love building **responsive, dynamic, and user-friendly web applications** that
 
 ### 📫 How to Reach Me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wahab-705a5330b)  
-[![Fiverr](https://img.shields.io/badge/-Fiverr-success?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/your-profile)  
+[![Fiverr](https://img.shields.io/badge/-Fiverr-success?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/imab_wahab)  
 [![Upwork](https://img.shields.io/badge/-Upwork-brightgreen?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/your-profile)  
 
 ---
