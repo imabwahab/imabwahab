@@ -32,7 +32,7 @@ I love building **responsive, dynamic, and user-friendly web applications** that
 ---
 
 ### 📫 How to Reach Me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wahab-705a5330b)  
 [![Fiverr](https://img.shields.io/badge/-Fiverr-success?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/your-profile)  
 [![Upwork](https://img.shields.io/badge/-Upwork-brightgreen?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/your-profile)  
 
@@ -45,18 +45,4 @@ I love building **responsive, dynamic, and user-friendly web applications** that
 
 ### ⚡ Fun Fact:  
 I drink a **special shake** every night to stay healthy! 🥤😄  
-
-
-**imabwahab/imabwahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
