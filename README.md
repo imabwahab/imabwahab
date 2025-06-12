@@ -43,6 +43,4 @@ I love building **responsive, dynamic, and user-friendly web applications** that
 
 ---
 
-### ⚡ Fun Fact:  
-I drink a **special shake** every night to stay healthy! 🥤😄  
 
