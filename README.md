@@ -1,11 +1,13 @@
 ## Hi there! 👋 I'm Ab Wahab 🚀  
-💻 **BS Computer Science (4th Semester) | Front-End Web Developer**  
+💻 **BS Computer Science (Completed 4th Semester) | Front-End Web Developer**  
 📍 **Tech Stack:**  
 ![HTML](https://img.shields.io/badge/-HTML-orange) 
 ![CSS](https://img.shields.io/badge/-CSS-blue) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) 
 ![React](https://img.shields.io/badge/-React-blue) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)  
+![MySQL](https://img.shields.io/badge/-MySQL-blue)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)  
 
 I love building **responsive, dynamic, and user-friendly web applications** that enhance user experiences. Currently, I’m sharpening my **React skills** and exploring **freelancing on Fiverr and Upwork** to gain real-world experience.  
 
@@ -19,7 +21,6 @@ I love building **responsive, dynamic, and user-friendly web applications** that
 ---
 
 ### 🔹 What I Aim For:  
-- 📢 Helping **society in Pakistan** become more tech-aware.  
 - 💡 Contributing to **open-source projects**.  
 - 👨‍💻 Becoming a **full-time web developer** in the near future.  
 
