@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Ab Wahab 🚀  
-💻 **BS Computer Science (Completed 4th Semester) | MERN Stack Developer**  
+💻 **BS Computer Science ( 5th Semester) | MERN Stack Developer**  
 📍 **Tech Stack:**  
 ![HTML](https://img.shields.io/badge/-HTML-orange) 
 ![CSS](https://img.shields.io/badge/-CSS-blue) 
