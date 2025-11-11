@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Ab Wahab 🚀  
+## Hi there! 👋 I'm Abdul Wahab 🚀  
 💻 **Next.js & Node.js Developer | BS Computer Science (5th Semester)**  
 
 ---
@@ -51,7 +51,7 @@ Currently, I’m enhancing my skills with **TypeScript** and working on **real-w
 ---
 
 ### 🔥 GitHub Stats  
-![Ab Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imab_wahab&show_icons=true&theme=radical)
+![Ab Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imabwahab&show_icons=true&theme=radical)
 
 ---
 
