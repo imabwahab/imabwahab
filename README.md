@@ -18,7 +18,7 @@
 
 ---
 
-I'm a **Full Stack JavaScript Developer** specializing in **Next.js** and **Node.js**.  
+I'm a **Full Stack JavaScript Developer** specializing in **React & Next.js** and **Node.js**.  
 I love building **high-performance, scalable web applications** that combine elegant front-end design with robust back-end logic.  
 Currently, I’m enhancing my skills with **TypeScript** and working on **real-world freelance projects** on Fiverr and Upwork.  
 
