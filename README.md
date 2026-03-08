@@ -53,11 +53,11 @@ Currently, I’m enhancing my skills with **TypeScript** and working on **real-w
 ### 🔥 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imabwahab&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="imabwahab's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=imabwahab&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="imabwahab's GitHub Stats" /> -->
   <br/>
   <img src="https://streak-stats.demolab.com/?user=imabwahab&theme=radical&hide_border=true" alt="imabwahab's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabwahab&layout=compact&theme=radical&hide_border=true" alt="imabwahab's Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabwahab&layout=compact&theme=radical&hide_border=true" alt="imabwahab's Top Languages" /> -->
 </p>
 
 ---
