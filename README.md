@@ -1,41 +1,50 @@
 ## Hi there! 👋 I'm Abdul Wahab 🚀  
-💻 **Next.js & Node.js Developer | BS Computer Science (5th Semester)**  
+💻 **Full Stack Developer | 1 Year Experience | BS Computer Science (6th Semester)**  
 
 ---
 
 ### 🧠 Tech Stack  
+
 ![Next.js](https://img.shields.io/badge/-Next.js-black)
+![NestJS](https://img.shields.io/badge/-NestJS-red)
 ![React](https://img.shields.io/badge/-React-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![Express.js](https://img.shields.io/badge/-Express.js-black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+![Supabase](https://img.shields.io/badge/-Supabase-darkgreen)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple)
+![Docker](https://img.shields.io/badge/-Docker-blue)
+![Cloud Deployment](https://badgen.net/badge/Cloud/%26%20DevOps/blue)
 
 ---
 
-I'm a **Full Stack JavaScript Developer** specializing in **React & Next.js** and **Node.js**.  
-I love building **high-performance, scalable web applications** that combine elegant front-end design with robust back-end logic.  
-Currently, I’m enhancing my skills with **TypeScript** and working on **real-world freelance projects** on Fiverr and Upwork.  
+I'm a **Junior Full Stack Developer** with **1 year of hands-on experience** building scalable web applications across the full stack. I specialize in **Next.js**, **NestJS**, and **Node.js** on the backend, and **React / Next.js** on the frontend — backed by solid experience with **PostgreSQL**, **Supabase**, and **MongoDB**.
+
+I've worked with real-world clients on **Fiverr** and **Upwork**, delivering production-ready apps with clean architecture, optimized performance, and reliable cloud deployments.
 
 ---
 
 ### 🔹 What I'm Working On  
-- 🚀 Advancing my expertise in **Next.js** and **Node.js** for full-stack apps  
-- ⚡ Building responsive, SEO-optimized apps with **server-side rendering**  
-- 🌐 Developing a **personal portfolio** to showcase full-stack projects  
-- 💼 Expanding my **freelance experience** with global clients  
+
+- 🚀 Building full-stack apps with **Next.js + NestJS + PostgreSQL**  
+- ☁️ Deploying and managing applications on cloud platforms (**Vercel, Railway, AWS, Supabase**)  
+- ⚡ Writing clean, type-safe code with **TypeScript** across the entire stack  
+- 🌐 Developing a **personal portfolio** to showcase production projects  
+- 💼 Expanding **freelance experience** with global clients  
 
 ---
 
 ### 🔹 My Goals  
+
 - 💡 Contribute to **open-source** and collaborate with developers worldwide  
-- 👨‍💻 Grow into a **professional full-stack web developer**  
-- 📈 Deepen my knowledge in **DevOps**, **performance optimization**, and **cloud deployment**  
+- 📈 Deepen expertise in **DevOps**, **CI/CD pipelines**, and **cloud-native architecture**  
+- 👨‍💻 Grow into a **senior full-stack engineer** with a strong system design foundation  
 
 ---
 
@@ -44,7 +53,8 @@ Currently, I’m enhancing my skills with **TypeScript** and working on **real-w
 ---
 
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wahab-705a5330b)  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/im-abdul-wahab/)  
 [![Fiverr](https://img.shields.io/badge/-Fiverr-success?style=flat-square&logo=Fiverr&logoColor=white)](https://www.fiverr.com/imab_wahab)  
 [![Upwork](https://img.shields.io/badge/-Upwork-brightgreen?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0111dbc015a07c49e2?mp_source=share)  
 
@@ -53,19 +63,18 @@ Currently, I’m enhancing my skills with **TypeScript** and working on **real-w
 ### 🔥 GitHub Stats  
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=imabwahab&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="imabwahab's GitHub Stats" /> -->
   <br/>
   <img src="https://streak-stats.demolab.com/?user=imabwahab&theme=radical&hide_border=true" alt="imabwahab's GitHub Streak" />
   <br/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabwahab&layout=compact&theme=radical&hide_border=true" alt="imabwahab's Top Languages" /> -->
 </p>
 
 ---
 
 ### 🎓 Education  
-**BS Computer Science — 5th Semester**  
-*Currently applying core CS concepts in modern web development projects.*
+
+**BS Computer Science — 6th Semester**  
+*Applying core CS concepts — algorithms, databases, networking — directly in production web development.*
 
 ---
 
-⭐️ *“Code. Learn. Build. Repeat.”*  
+⭐️ *"Code. Learn. Build. Repeat."*
