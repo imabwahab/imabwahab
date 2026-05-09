@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Abdul Wahab 🚀  
-💻 **Full Stack Developer | 1 Year Experience | BS Computer Science (6th Semester)**  
+💻 **Full Stack Developer | 1 Year Experience | BS Computer Science**  
 
 ---
 
@@ -72,7 +72,7 @@ I've worked with real-world clients on **Fiverr** and **Upwork**, delivering pro
 
 ### 🎓 Education  
 
-**BS Computer Science — 6th Semester**  
+**BS Computer Science**  
 *Applying core CS concepts — algorithms, databases, networking — directly in production web development.*
 
 ---
